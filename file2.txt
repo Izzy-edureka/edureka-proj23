@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my filen master branch 
+
+this is my file for feature
+>>>>>>> feature
